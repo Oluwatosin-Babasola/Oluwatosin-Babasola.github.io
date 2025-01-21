@@ -1,6 +1,6 @@
 ---
 title: "Sachin Subedi"
-image: /images/1234.jpg
+image: /images/46967418.png
 about: 
   template: trestles
   image-shape: rectangle
