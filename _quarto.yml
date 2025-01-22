@@ -22,7 +22,7 @@ format:
     theme:
       light: flatly
       dark: darkly 
-    mainfont: Arial
+    mainfont: Computer Modern
     fontsize: 1.2rem
     css: styles.css
     toc: true
