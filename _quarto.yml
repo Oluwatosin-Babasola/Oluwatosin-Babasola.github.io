@@ -3,19 +3,20 @@ project:
   output-dir: docs
 
 website:
-  title: "Tosin's personal website"
+  title: "Home"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - resume.qmd
-      - publications.qmd
-      - presentations.qmd
-      - projects.qmd
-      - media.qmd
+      - href: Index.qmd
+      - Resume.qmd
+      - Publications.qmd
+      - Presentations.qmd
+      - Academic Project.qmd
+      - Industrial Project.qmd
+      - Media.qmd
+      - Training.qmd
       
   page-footer:
-    left: "© Copyright 2025 Tosin. Except where otherwise noted, all text and images licensed CC-BY-NC 4.0."
+    left: "© Copyright 2025 Oluwatosin. Except where otherwise noted, all text and images licensed CC-BY-NC 4.0."
 
 format:
   html:
