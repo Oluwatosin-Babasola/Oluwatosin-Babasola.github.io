@@ -12,6 +12,7 @@ website:
       - Presentations.qmd
       - Projects.qmd
       - Media.qmd
+      - Training.qmd
       
   page-footer:
     left: "© Copyright 2025 Oluwatosin. Except where otherwise noted, all text and images licensed CC-BY-NC 4.0."
