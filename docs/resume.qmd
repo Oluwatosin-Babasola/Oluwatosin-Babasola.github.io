@@ -5,23 +5,215 @@ editor: visual
 
 ## Education
 
--   Ph.D. in Statistical Applied Mathematics, University of Bath (2019 - 2023)
--   MRes in Statistical Applied Mathematics, University of Bath (2018 - 2019)
--   M Sc, Financial Mathematics, Jomo-Kenyatta University of Agriculture and Technology, Nairobi, Kenya (2016 - 2018)
--   M Sc, Mathematical Sciences, University of Cape Town, South Africa (2015 - 2016)
--   M Sc, Mathematics (Distinction), University of Ilorin, Nigeria (2014 - 2015)
--   B. Sc, Mathematics (First Class Honour), University of Ilorin, Nigeria (2009 - 2013)
+-   2023: Ph.D. in Mathematical Sciences, University of Bath, UK
+-   2019: Master of Research in Statistical Applied Mathematics, University of Bath, UK
+-   2018: Master of Science in Financial Mathematics, jointly awarded by Pan African University and Jomo-Kenyatta University of Agriculture and Technology, Nairobi, Kenya
+-   2016: Master of Science in Mathematical Sciences, jointly awarded by University of Cape Town and African Institute for Mathematical Sciences, South Africa.
+-   2015: Master of Science in Mathematics (with Distinction), University of Ilorin, Nigeria.
+-   2013: Bachelor of Science in Mathematics (with First Class Honor), University of Ilorin, Nigeria
+
+## Scholarship and Grants (total approx USD300, 000)
+
+-   October 2022: University of Louisiana at Lafeyette (ICMA VIII) Travel Grant
+
+-   August 2022: Ecological Society of America Opportunity Fund
+
+-   May 2022: Dipartimenta di Eccellenza Grant, Italian Ministry of Education
+
+-   September 2022: Heidelberg Laureate Forum Foundation Grant
+
+-   December 2021: European Kovalevskaya Travel Grant
+
+-   February 2021 V-Knowledge Exchange in Mathematical Sciences Research Grant
+
+-   September 2018: EPSRC - CDT SAMBa PhD Scholarship
+
+-   November 2017: Africa -ai- Japan Project Innovation Fund
+
+-   August 2016: African Union Commission Scholarship.
+
+-   August 2015: AIMS-NEI Scholarship
+
+-   July 2011: MTN Foundation Science and Technology Undergraduate Scholarship.
+
+## Award and Recognition
+
+2023: University of Bath, [Doctoral Recognition Award](https://www.bath.ac.uk/corporate-information/doctoral-recognition-award-recipients/)
+
+2022: UK [Recognition Award](https://maths4dl.ac.uk/newsevents/chris-budd-receives-government-award-for-covid-modelling-work) for Modeling & Data Support with Prof Chris Budd, Dr Simone Appella and Dr Tina Zhou
+
+2022: HLF [Outstanding Young Researcher](https://www.heidelberg-laureate-forum.org/) in Mathematics and Computer Science
+
+2021: ICMS and MAC-MIGS Modeling Camp, Edinburgh, UK – First Place Winner
+
+2020: UK Graduate [Modelling](https://www.maths.ox.ac.uk/study-here/postgraduate-study/industrially-focused-mathematical-modelling-epsrc-cdt/infomm-events-4%7D%7BModelling) Camp, Oxford, UK - Runner up Prize\`
+
+2019: Maryam Mirzakhani Prize at the International Mathematical Olympiad.
 
 ## Work Experience
 
--   Senior Research Associate, University of Georgia, (2024 to Present)
+**Academic Work Experience**
 
--   Research Scientist, Institute for Mathematical Innovation (2023 - 2024)
+-   Teaching Assistant, King's College London, United Kingdom
 
--   Data Scientist, Infinite Data Consultants Ltd (2017 - 2019)
+    -   Course Taught:
 
--   Quantitative Analyst, Lead way Assurance (2013 - 2014)
+        -   Statistics in Finance
 
-**Scholarship and Awards**
+        -   Introduction to dynamical systems
 
-------------------------------------------------------------------------
+-   Teaching Assistant, University of Bath, United Kingdom
+
+    -   Course Taught
+
+        -   Numerical Analysis
+
+        -   Methods and Applications
+
+        -   Probability
+
+        -   Quantitative Method
+
+        -   Modelling and Dynamical System.
+
+-   Teaching Assistance, African Institute for Mathematical Sciences, School Enrichment Centre, South Africa.
+
+    -   Subject Taught:
+
+        -   Quantitative Reasoning
+
+        -   Verbal Aptitude
+
+**Research Experience**
+
+-   Senior Research Associate, [University of Georgia](https://www.ceid.uga.edu/2024/03/15/oluwatosin-babasola/), Athens, GA
+
+    -   Research Area: Mathematical modeling, molecular epidemiology, cost effectiveness assessment, environmental risk
+
+        -   Developed mathematical model and implemented molecular epidemiology approach to effectively study the transmission pathway of Influenza A virus.
+
+        -   Utilized scientific software to analyze and visualize both quantitative and qualitative datasets
+
+-   Research Scientist, [Institute for Mathematical Innovation](https://imibath.ac.uk/), Bath, United Kingdom
+
+    -   Research Area: Machine learning, predictive modeling, statistical data analysis, numerical analysis
+
+        -   Developed a machine learning algorithm that classify the UK household income and the spending behavior.
+
+        -   Applied statistical modeling techniques to extract meaningful patterns to inform decision making
+
+**Industrial Experience**
+
+-   Lead Financial Analyst, Infinite Data Consultants Ltd
+
+    -   Core competence: Team management, Data analysis, financial model
+
+        -   Led cross functional teams to achieve project goals and enhance collaboration across departments
+
+        -   Analyzed complex datasets to derive actionable insights and inform business decision
+
+        -   Identified trends through data analysis to support strategic planning and operational improvement
+
+-   Analyst, First Bank, plc
+
+    -   Core competence: Statistical analysis, customer relationship, trading, communication
+
+        -   Generated detailed reports to support decision making processes
+
+        -   Developed engaging data visualization to effectively communicate consumer products
+
+## Research Area
+
+-   Mathematical Modeling
+
+-   Trading and Option Pricing
+
+-   Machine Learning
+
+-   Molecular Epidemiology
+
+-   Climate Risk Modeling
+
+## Conference and Workshop
+
+-   04 - 07 Jan 2023: Joint Mathematics Meetings [(JMM)](https://www.jointmathematicsmeetings.org/meetings/national/jmm2023/2270_intro%7D%7B(JMM)%7D). Boston, USA.
+
+-   28 - 30 Oct 2022: ICMA-VIII, International Conference on Modeling and Analysis of Populations in Biological Systems. University of Louisiana, Lafayette, USA.
+
+-   04 - 05 Oct 2022: Annual [Black](https://ima.org.uk/20113/black-heroes-of-mathematics-conference-2022/%7D%7BBlack) Heroes of Mathematics Conference}. Edinburgh, Scotland, UK.
+
+-   18 - 24 Sept 2022: 9th Heidelberg Laureate Forum, Heidelberg Germany.
+
+-   11 - 13 April 2022: British Applied Mathematics, University of Loughborough, UK.
+
+-   20 - 23 Sept 2021: 8th Heidelberg Laureate Forum, Heidelberg, Germany.
+
+-   13 - 15 July 2021: (Virtual) Study Group on Covid-19 safety in Large, Bath, UK
+
+-   23 - 27 May 2021: (Virtual) Society of Industrial and Applied Mathematics (SIAM) Conference on Applications of Dynamical Systems, US
+
+-   17 - 20 May 2021: [ICMS](https://www.icms.org.uk/events/workshops/ModCamp2021%7D%7BICMS) and MAC-MIGS Modelling Cam, United kingdom.
+
+-   12– 16 April 2021: 165 European Study Group with Industry. University of Durham, UK.
+
+-   25 - 29 Jan 2021: 13 SAMBa Integrative Think Tank, Bath, UK.
+
+-   15 - 17 July 202: UK Graduate [Modelling](https://www.maths.ox.ac.uk/study-here/postgraduate-study/industrially-focused-mathematical-modelling-epsrc-cdt/infomm-events-4%7D%7BModelling) Camp, University of Oxford. UK.
+
+-   21 - 23 Jan 2020: [Geospatial](https://www.bath.ac.uk/events/geospatial-study-group-with-industry/%7D%7BGeospatial) Study Group with Industry with challenge problems from [Natural](https://www.gov.uk/government/organisations/natural-england%7D%7BNatural) England and [Highways](https://highwaysengland.co.uk/%7D%7BHighways) England.
+
+## Skills
+
+-   MATLAB, Python, R
+
+    -   Programming Skills : Python, R, SQL and MATLAB
+
+    -   Data Visualization: Python (seaborn, Matplotlib, pandas), R (ggplot2, plotly, shiny)
+
+    -   Time Series Forecasting: Python (statsmodels, arch, Prophet), R (quantmod, forecast, fpp3)
+
+    -   Machine Learning: Scikit-learn, PyTorch, TensorFlow, Keras
+
+    -   Statistical Analysis: Python (statsmodels, scipy), R (stats, car, MASS, glmnet, lme4).
+
+-   Operating system: Windows, Ubuntu, MacOS
+
+-   Typography : LaTeX, Microsoft word
+
+-   Additional: Microsoft Office Suit (Excel)
+
+## Leadership and Mentorship
+
+-   2023: Doctoral Ambassador}, University of Bath, UK.
+
+-   2022: Faculty Doctoral Representative}, University of Bath, UK.
+
+-   2022: Project Supervisor, Africa - Oxford Mathematics Mentorship, University of Oxford, UK.
+
+-   2022: Facilitator: Royal Institution, Bath Masterclass, UK.
+
+-   Mentor, Discover Bath Summer School, University of Bath, UK.
+
+-   Exhibitor, Maths of Climate Change, British Science Festival, Chelmsford, UK.
+
+## Professional Membership
+
+-   European Mathematical Society (EMS)
+
+-   Canadian Mathematical Society (CMS)
+
+-   American Mathematical Society (AMS)
+
+-   Ecological Society of America (ESA)
+
+-   Ecological Forcasting Initiatives (EFI)
+
+-   Institute of Electrical and Electronics Engineers (IEEE)
+
+-   International Association of Engineers (IAENG)
+
+-   Institute of Mathematics and its Applications (IMA)
+
+-   Society for Industrial and Applied Mathematics (SIAM)
+
+-   Center for the Ecology of Infectious Diseases (CEID)
