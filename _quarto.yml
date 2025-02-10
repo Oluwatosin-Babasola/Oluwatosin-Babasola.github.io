@@ -6,13 +6,13 @@ website:
   title: "Home"
   navbar:
     left:
-      - href: Index.qmd
-      - Resume.qmd
-      - Milestone.qmd
-      - Presentations.qmd
-      - Projects.qmd
-      - Media.qmd
-      - Training.qmd
+      - href: index.qmd
+      - resume.qmd
+      - milestone.qmd
+      - presentations.qmd
+      - projects.qmd
+      - media.qmd
+      - training.qmd
       
   page-footer:
     left: "© Copyright 2025 Oluwatosin. Except where otherwise noted, all text and images licensed CC-BY-NC 4.0."
