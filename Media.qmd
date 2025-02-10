@@ -1,0 +1,38 @@
+---
+title: "Media"
+editor: visual
+---
+
+-   My work on application of mathematics for understanding the effect of climate change on cocoa crops was featured by the [Plus Magazine](https://plus.maths.org/content/student-snapshots-tosin-babasola), [UK Maths Career](https://www.mathscareers.org.uk/tosin-babasola-investigating-the-impact-of-climate-change-on-cocoa-farming/), [University of Bath](https://www.bath.ac.uk/announcements/phd-student-researching-effects-of-climate-change-on-cocoa-crops-is-chosen-to-mingle-with-laureates/)
+
+-   [Newspaper publication after my PhD](https://dailytrust.com/nigerian-attains-phd-after-completing-4-masters-degrees/)
+
+![](images/77DF05BA-6758-4077-83A5-5FA2C59B0DE0.jpeg){width="616"}
+
+-   [Daily trust national newspaper](https://dailytrust.com/heidelberg-laureate-forum-14-nigerian-students-among-best-young-researchers-speak-on-their-researches/) detailing my participation at the HLF with [Whitfield Diffie](https://amturing.acm.org/award_winners/diffie_8371646.cfm) - pioneers of [public-key cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography)
+
+![](images/C1B3029E-DDBB-4D7F-95A9-808B4398EE0F.jpeg)
+
+-   [University of Bath give some details about my PhD work](https://www.bath.ac.uk/announcements/phd-student-researching-effects-of-climate-change-on-cocoa-crops-is-chosen-to-mingle-with-laureates/)
+
+![](images/BE73BEE1-C3A4-4259-841B-911A74A5420A.jpeg)
+
+Joint work with Prof Chris Budd and Dr Tina Zhou on predicting climate change using Rasberry Pi. Detailed [here](https://www.bath.ac.uk/announcements/how-to-predict-climate-change-from-the-comfort-of-your-home/) and also [here](https://phys.org/news/2021-09-climate-comfort-home.html)
+
+![](images/3A04A388-1E3A-40D2-BF48-E698E32728EE.jpeg)
+
+-   [The Heidelberg Laureate Forum: Bringing Together Some of the Brightest Minds in Mathematics](https://www.ams.org/journals/notices/202311/rnoti-p1863.pdf)
+
+![](images/E1668926-8153-46F3-8117-53CF41B7AFD7.jpeg)
+
+-   [Investigating the Impact of Climate Change on Cocoa Farming](https://www.mathscareers.org.uk/tosin-babasola-investigating-the-impact-of-climate-change-on-cocoa-farming/)
+
+![](images/7432171F-ADAA-40A6-B53E-71D6275A1C1E.jpeg)
+
+-   [Mathematical snapshots](https://plus.maths.org/content/student-snapshots-tosin-babasola)
+
+![](images/286552D7-5DB0-4AA1-9A9B-96D9931D02E6.jpeg)
+
+-   [SIAM Session Connects Education and Research at the 2023 Joint Mathematics Meetings](https://www.siam.org/publications/siam-news/articles/siam-session-connects-education-and-research-at-the-2023-joint-mathematics-meetings/)
+
+![](images/C137D4A6-B3E2-4F93-AF68-836B9D7C68EB.jpeg)

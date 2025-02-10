@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Home"
+  navbar:
+    left:
+      - href: Index.qmd
+      - Resume.qmd
+      - Milestone.qmd
+      - Presentations.qmd
+      - Projects.qmd
+      - Media.qmd
+      
+  page-footer:
+    left: "© Copyright 2025 Oluwatosin. Except where otherwise noted, all text and images licensed CC-BY-NC 4.0."
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly 
+    mainfont: Computer Modern
+    fontsize: 1.2rem
+    css: styles.css
+    toc: true
+
+

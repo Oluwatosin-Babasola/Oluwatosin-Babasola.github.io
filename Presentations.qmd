@@ -1,0 +1,30 @@
+---
+title: "Presentations"
+editor: visual
+---
+
+-   Presented my ongoing work on "A Mathematical Modeling Approach for the Highly Pathogenic Avian Influenza (HPAI) Transmission Dynamics and Cost-Effectiveness Analysis of the Intervention Strategies" at the NSF rare event workshop in Chicago. Detailed [here](https://datascience.uchicago.edu/events/nsf-workshop-on-data-driven-modeling-and-prediction-of-rare-and-extreme-events/)
+
+-   Gave a poster presentation at the 2024 IDM Annual Symposium hosted in Seattle, WA on modeling & data science in disease modeling. Detailed [here](https://www.idmod.org/symposium/2024-symposium/)
+
+-   Gave a talk focus on "Differential Equations, Dynamical Systems and Applied Mathematics" during the[BU- Keio-Tsinghua workshop](https://math.bu.edu/BKT2024/) in Boston
+
+-   Presented a poster on "assessing the economic impact of H5N1 outbreaks in the United States" during the CEIRR 3rd Annual Network Meeting hosted at New York Academy of Medicine between July 21, 2024 – July 24, 2024
+
+-   Participated at the 2024 Ecology and Evolution of Infectious Diseases (EEID) Conference and gave a poster presentation on "Epidemiology and mathematical model for understanding the transmission dynamics and control of Mpox".
+
+-   Participated at the industrial problem solving workshop in Montreal Canada and gave a talk on applying machine learning for ULD forecast.
+
+-   I am one of the invited speaker at the annual Black Heroes of Mathematical conference and I gave a talk on "the r*ole of mathematics in understanding the growth of cocoa crops*". Full talk [here](https://media.ed.ac.uk/playlist/dedicated/51612401/1_jcjvm2sj/1_mab268fv)
+
+-   Participated at the Joint Mathematics Meeting and I was part of the panel discussion on the SIAM Session Connects Education and Research. More info: [here](https://www.siam.org/publications/siam-news/articles/siam-session-connects-education-and-research-at-the-2023-joint-mathematics-meetings/)
+
+-   Gave a lightning talk during the Heidelberg Laureate Forum on my work on "time delayed modeling": Full video for all talk can be find [here](https://www.youtube.com/watch?v=yV3PdmAMwNg&list=PLS0TjJA_GZXf0GaDoa991OcSv6_blmm-X&index=6&t=3590s)
+
+-   Gave a talk on "Asymptotic analysis of a nonlinear flowering equation" during the British Applied Mathematics Colloquium.
+
+-   Gave a talk on the "Role of Mathematics" to Ursline Girl High school . The event is detailed on their newsletter [here](https://www.ursulinehigh.merton.sch.uk/assets/Uploads/Inform-Sept-Oct-2022-.pdf)
+
+------------------------------------------------------------------------
+
+## 

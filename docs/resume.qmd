@@ -1,0 +1,27 @@
+---
+title: "Resume"
+editor: visual
+---
+
+## Education
+
+-   Ph.D. in Statistical Applied Mathematics, University of Bath (2019 - 2023)
+-   MRes in Statistical Applied Mathematics, University of Bath (2018 - 2019)
+-   M Sc, Financial Mathematics, Jomo-Kenyatta University of Agriculture and Technology, Nairobi, Kenya (2016 - 2018)
+-   M Sc, Mathematical Sciences, University of Cape Town, South Africa (2015 - 2016)
+-   M Sc, Mathematics (Distinction), University of Ilorin, Nigeria (2014 - 2015)
+-   B. Sc, Mathematics (First Class Honour), University of Ilorin, Nigeria (2009 - 2013)
+
+## Work Experience
+
+-   Senior Research Associate, University of Georgia, (2024 to Present)
+
+-   Research Scientist, Institute for Mathematical Innovation (2023 - 2024)
+
+-   Data Scientist, Infinite Data Consultants Ltd (2017 - 2019)
+
+-   Quantitative Analyst, Lead way Assurance (2013 - 2014)
+
+**Scholarship and Awards**
+
+------------------------------------------------------------------------
