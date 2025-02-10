@@ -6,12 +6,12 @@ website:
   title: "Home"
   navbar:
     left:
-      - href: index.qmd
+      - href: intro.qmd
       - resume.qmd
       - milestone.qmd
       - presentations.qmd
       - projects.qmd
-      - media.qmd
+      - footage.qmd
       - training.qmd
       
   page-footer:
