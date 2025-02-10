@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "presentations.html",
+    "href": "presentations.html",
+    "title": "Presentations",
+    "section": "",
+    "text": "Presented my ongoing work on “A Mathematical Modeling Approach for the Highly Pathogenic Avian Influenza (HPAI) Transmission Dynamics and Cost-Effectiveness Analysis of the Intervention Strategies” at the NSF rare event workshop in Chicago. Detailed here\nGave a poster presentation at the 2024 IDM Annual Symposium hosted in Seattle, WA on modeling & data science in disease modeling. Detailed here\nGave a talk focus on “Differential Equations, Dynamical Systems and Applied Mathematics” during theBU- Keio-Tsinghua workshop in Boston\nPresented a poster on “assessing the economic impact of H5N1 outbreaks in the United States” during the CEIRR 3rd Annual Network Meeting hosted at New York Academy of Medicine between July 21, 2024 – July 24, 2024\nParticipated at the 2024 Ecology and Evolution of Infectious Diseases (EEID) Conference and gave a poster presentation on “Epidemiology and mathematical model for understanding the transmission dynamics and control of Mpox”.\nParticipated at the industrial problem solving workshop in Montreal Canada and gave a talk on applying machine learning for ULD forecast.\nI am one of the invited speaker at the annual Black Heroes of Mathematical conference and I gave a talk on “the role of mathematics in understanding the growth of cocoa crops”. Full talk here\nParticipated at the Joint Mathematics Meeting and I was part of the panel discussion on the SIAM Session Connects Education and Research. More info: here\nGave a lightning talk during the Heidelberg Laureate Forum on my work on “time delayed modeling”: Full video for all talk can be find here\nGave a talk on “Asymptotic analysis of a nonlinear flowering equation” during the British Applied Mathematics Colloquium.\nGave a talk on the “Role of Mathematics” to Ursline Girl High school . The event is detailed on their newsletter here"
+  },
+  {
+    "objectID": "projects.html#h5nx-transmission-dynamics-and-assessment-of-the-intervention-strategies",
+    "href": "projects.html#h5nx-transmission-dynamics-and-assessment-of-the-intervention-strategies",
+    "title": "Projects",
+    "section": "- H5Nx transmission dynamics and assessment of the intervention strategies",
+    "text": "- H5Nx transmission dynamics and assessment of the intervention strategies\nhe H5Nx avian influenza virus poses a significant threat to both poultry industries and public health due to its high fatality rate and potential for pandemic spread. While no evidence of human-to-human transmission of H5Nx, the zoonotic spillover events remain a major concern due to the virus’s high fatality rate in humans (~60% mortality historically). Therefore, it is essential to understand interspecies transmission dynamics and quantifying the effectiveness of possible interventions strategies such as culling, vaccination, biosecurity measures which are critical for mitigating risks. Mathematical models provide a powerful tool to simulate transmission pathways, forecast outbreak trajectories, and compare the impact of control strategies across species. Hence, I develop a coupled mathematical framework to analyze H5Nx transmission dynamics in both human, domestic and wild populations.\n\n\n\n.\n\n\nGeospatial Risk Mapping of H5N1 Spillover to Humans Across US States \n\nThe rise of H5N1 avian influenza as a potential zoonotic threat has underscored the need for better preparedness and response strategies to mitigate the risks posed to human populations. This virus has a tendency to cause severe illness in humans following possible spillover from infected birds. So, in this context, understanding the geospatial distribution of risk factors is essential for informing public health measures and enhancing surveillance systems.\nHence, this project aims to develop a geospatial risk map of H5N1 spillover to humans across various U.S. states, identifying areas of heightened vulnerability and prioritizing regions for enhanced surveillance and preparedness. By integrating multiple data sources including historical H5N1 outbreaks in animals, ecological factors, human population density, poultry industry locations, climate variables etc, this work will assess the risk of H5N1 transmission from animals to humans and its potential to spread within human populations."
+  },
+  {
+    "objectID": "training.html",
+    "href": "training.html",
+    "title": "Training",
+    "section": "",
+    "text": "We’re excited to announce that Ultralytics, a top company in creating AI models, has noticed our research. Ultralytics is known for its cutting-edge AI work, especially its Ultralytics YOLO (You Only Look Once) technology. This technology is at the forefront of image classification and object detection, setting benchmarks for speed, accuracy, and efficiency in vision AI. Their shout-out to our work on Twitter shows that what we’re doing is important and impactful. Being recognized by such an influential company in AI proves that our research is valuable and makes a real difference in the tech and science worlds.\nCheck out the tweet by Ultralytics here."
+  },
+  {
+    "objectID": "training.html#ultralytics-tweet-on-our-research",
+    "href": "training.html#ultralytics-tweet-on-our-research",
+    "title": "Training",
+    "section": "",
+    "text": "We’re excited to announce that Ultralytics, a top company in creating AI models, has noticed our research. Ultralytics is known for its cutting-edge AI work, especially its Ultralytics YOLO (You Only Look Once) technology. This technology is at the forefront of image classification and object detection, setting benchmarks for speed, accuracy, and efficiency in vision AI. Their shout-out to our work on Twitter shows that what we’re doing is important and impactful. Being recognized by such an influential company in AI proves that our research is valuable and makes a real difference in the tech and science worlds.\nCheck out the tweet by Ultralytics here."
+  }
+]
