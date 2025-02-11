@@ -150,28 +150,24 @@ editor: visual
 
 -   04 - 09 Aug 2024: E[cological Society of America](https://www.esa.org/longbeach2024/supporting-ecologists-throughout-their-careers/) Annual Meeting, Long Beach, CA, USA.
 
--   21 - 24 July 2024: Centers of Excellence for Influenza Research and Response (CEIRR), [3rd Annual Meeting](https://web.cvent.com/event/4214470a-d11a-4758-9c4c-458f39ec5736/websitePage:0ac91a96-4480-4228-9106-384edd078b76}), New York Academy of Medicine, New York, USA.
+-   21 - 24 July 2024: Centers of Excellence for Influenza Research and Response (CEIRR), [3rd Annual Meeting](https://web.cvent.com/event/4214470a-d11a-4758-9c4c-458f39ec5736/websitePage:0ac91a96-4480-4228-9106-384edd078b76%7D), New York Academy of Medicine, New York, USA.
 
-```{=html}
 <!-- -->
-```
--   15 - 19 July 2024: [Summer Institute in Statistics and Modeling in Infectious Diseases](https://sph.emory.edu/SISMID/about/index.html}{16th Annual SISMID), Emory University, Atlanta, GA, USA.
+
+-   15 - 19 July 2024: [Summer Institute in Statistics and Modeling in Infectious Diseases](https://sph.emory.edu/SISMID/about/index.html%7D%7B16th%20Annual%20SISMID), Emory University, Atlanta, GA, USA.
 
 -   24 - 27 June 2024: [Ecology and Evolution of Infectious Diseases (EEID)](https://web.cvent.com/event/b9c7e658-1431-4030-bc0d-e4aa93816616/summary) , Stanford University, California, USA.
 
-```{=html}
 <!-- -->
-```
--   28 - 31 May 2024: [Boston University/Keio University/Tsinghua University](https://math.bu.edu/BKT2024/}{Workshop) workshop, Boston University, Boston, USA.
 
-```{=html}
-<!-- -->
-```
--   13 - 17 May 2024: [13th Montreal Industrial Problem Solving](https://www.crmath.ca/en/activities/#/type/activity/id/3955}{Workshop), University of Montreal, Canada.
+-   28 - 31 May 2024: [Boston University/Keio University/Tsinghua University](https://math.bu.edu/BKT2024/%7D%7BWorkshop) workshop, Boston University, Boston, USA.
 
-```{=html}
 <!-- -->
-```
+
+-   13 - 17 May 2024: [13th Montreal Industrial Problem Solving](https://www.crmath.ca/en/activities/#/type/activity/id/3955%7D%7BWorkshop), University of Montreal, Canada.
+
+<!-- -->
+
 -   04 - 06 Oct 2023: [Panaroma of Mathematics II Conference](https://www.hcm.uni-bonn.de/events/eventpages/2023/panorama2/), Hausdorff Center for Mathematics (HCM), Bonn, Germany.
 
 -   04 - 07 Jan 2023: Joint Mathematics Meetings [(JMM)](https://www.jointmathematicsmeetings.org/meetings/national/jmm2023/2270_intro%7D%7B(JMM)%7D). Boston, USA.
