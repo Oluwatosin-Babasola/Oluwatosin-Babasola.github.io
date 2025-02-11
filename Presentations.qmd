@@ -7,7 +7,7 @@ editor: visual
 
 -   Gave a poster presentation at the 2024 IDM Annual Symposium hosted in Seattle, WA on modeling & data science in disease modeling. Detailed [here](https://www.idmod.org/symposium/2024-symposium/)
 
--   Gave a talk focus on "Differential Equations, Dynamical Systems and Applied Mathematics" during the[BU- Keio-Tsinghua workshop](https://math.bu.edu/BKT2024/) in Boston
+-   Gave a talk focus on "Differential Equations, Dynamical Systems and Applied Mathematics" during the [BU- Keio-Tsinghua workshop](https://math.bu.edu/BKT2024/) in Boston, USA.
 
 -   Presented a poster on "assessing the economic impact of H5N1 outbreaks in the United States" during the CEIRR 3rd Annual Network Meeting hosted at New York Academy of Medicine between July 21, 2024 – July 24, 2024
 
