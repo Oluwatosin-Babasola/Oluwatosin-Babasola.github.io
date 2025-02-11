@@ -5,18 +5,18 @@ editor: visual
 
 ## Current work
 
-## - H5Nx transmission dynamics and assessment of the intervention strategies
+## H5Nx transmission dynamics and assessment of the intervention strategies
 
 he H5Nx avian influenza virus poses a significant threat to both poultry industries and public health due to its high fatality rate and potential for pandemic spread. While no evidence of human-to-human transmission of H5Nx, the zoonotic spillover events remain a major concern due to the virus’s high fatality rate in humans (\~60% mortality historically). Therefore, it is essential to understand interspecies transmission dynamics and quantifying the effectiveness of possible interventions strategies such as culling, vaccination, biosecurity measures which are critical for mitigating risks. Mathematical models provide a powerful tool to simulate transmission pathways, forecast outbreak trajectories, and compare the impact of control strategies across species. Hence, I develop a coupled mathematical framework to analyze H5Nx transmission dynamics in both human, domestic and wild populations.
 
 ![.](images/clipboard-1135694148.png){width="600" height="500"}
 
-**Geospatial Risk Mapping of H5N1 Spillover to Humans Across US States** 
+## Geospatial Risk Mapping of H5N1 Spillover to Humans Across US States
 
--   The rise of H5N1 avian influenza as a potential zoonotic threat has underscored the need for better preparedness and response strategies to mitigate the risks posed to human populations. This virus has a tendency to cause severe illness in humans following possible spillover from infected birds. So, in this context, understanding the geospatial distribution of risk factors is essential for informing public health measures and enhancing surveillance systems.
+The rise of H5N1 avian influenza as a potential zoonotic threat has underscored the need for better preparedness and response strategies to mitigate the risks posed to human populations. This virus has a tendency to cause severe illness in humans following possible spillover from infected birds. So, in this context, understanding the geospatial distribution of risk factors is essential for informing public health measures and enhancing surveillance systems.
 
-    Hence, this project aims to develop a geospatial risk map of H5N1 spillover to humans across various U.S. states, identifying areas of heightened vulnerability and prioritizing regions for enhanced surveillance and preparedness. By integrating multiple data sources including historical H5N1 outbreaks in animals, ecological factors, human population density, poultry industry locations, climate variables etc, this work will assess the risk of H5N1 transmission from animals to humans and its potential to spread within human populations.
+Hence, this project aims to develop a geospatial risk map of H5N1 spillover to humans across various U.S. states, identifying areas of heightened vulnerability and prioritizing regions for enhanced surveillance and preparedness. By integrating multiple data sources including historical H5N1 outbreaks in animals, ecological factors, human population density, poultry industry locations, climate variables etc, this work will assess the risk of H5N1 transmission from animals to humans and its potential to spread within human populations.
 
-    ![](images/AB7D92F0-5C71-4F43-A63D-26A1FC4D2AEC.jpeg){width="600" height="500"}
+-   ![](images/AB7D92F0-5C71-4F43-A63D-26A1FC4D2AEC.jpeg){width="600" height="500"}
 
 ------------------------------------------------------------------------

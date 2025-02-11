@@ -1,12 +1,80 @@
 ---
-title: "Training"
+title: "Workshop"
 editor: visual
 ---
 
-## Ultralytics Tweet on Our Research
+The Summer Institute in Statistics and Modeling in Infectious Diseases (SISMID) is designed to introduce infectious disease researchers to modern methods of statistical analysis and mathematical modeling. [Since its founding in 2009](https://sph.emory.edu/SISMID/about/index.html) by [Dr. Betz Halloran](https://www.fredhutch.org/en/faculty-lab-directory/halloran-elizabeth.html) of University of Washington, SISMID has [trained thousands of researchers](https://sph.emory.edu/SISMID/about/index.html#testimonials) from academia, government, and industry in cutting edge analytic methods. SISMID’s new home is at Emory University, and housed within the Rollins School of Public Health, in Atlanta.
 
-We're excited to announce that **Ultralytics**, a top company in creating AI models, has noticed our research. **Ultralytics** is known for its cutting-edge AI work, especially its Ultralytics YOLO (You Only Look Once) technology. This technology is at the forefront of image classification and object detection, setting benchmarks for speed, accuracy, and efficiency in vision AI. Their shout-out to our work on Twitter shows that what we're doing is important and impactful. Being recognized by such an influential company in AI proves that our research is valuable and makes a real difference in the tech and science worlds.
+ Below are the module taught and the relevant material.
 
-Check out the tweet by Ultralytics [here](https://twitter.com/ultralytics/status/1609111003609923592).
+**Module 1:**
 
-## ![Tweet by Ultralytics](/images/X.png)
+-   [Introduction to R](Introduction%20to%20R):
+
+The material to learn the basic of R can be found  [here](https://github.com/UGA-IDD/SISMID-2024). Relevant link also [here](https://alexd106.github.io/intro2R/lectures.html,) and [here](https://andreashandel.github.io/MADAcourse/content/content-overview.html)
+
+-   [Spatial Statistics in Epidemiology and Public Health](Spatial%20Statistics%20in%20Epidemiology%20and%20Public%20Health):
+
+<https://github.com/lance-waller-lab/SISMID_2024_spatial_statistics>
+
+-   [Mathematical Models of Infectious Diseases](https://sph.emory.edu/SISMID/modules/math-models/index.html):
+
+    <https://sismid2024.callumarnold.com/>
+
+**Module 2:**
+
+-   [Introduction to the Tidyverse](https://sph.emory.edu/SISMID/modules/intro-to-the-tidyverse/index.html):
+
+<https://github.com/sebowden/sismid-tidyverse>
+
+-   [Reconstructing Transmission with Genomic Data](https://sph.emory.edu/SISMID/modules/recon-transmission-genomic-data/index.html):
+
+<https://jessicastockdale.github.io/SISMID2024-transmission-genomics/>
+
+-   [Pathogen Evolution, Selection and Immunity](https://sph.emory.edu/SISMID/modules/pathogen-evo-selection-immunity/index.html):
+
+<https://ahgroup.github.io/DSAIRM/articles/DSAIRM.html>
+
+-   [Infectious Diseases, Immunology and Within Host Models](https://sph.emory.edu/SISMID/modules/infectious-diseases-immunology/index.html):
+
+<https://github.com/andreashandel/SISMID2024>
+
+**Module 3**
+
+-   MCMC I:
+
+<https://bleicham.github.io/Overview.html>
+
+-   Statistics and Modeling with Novel Data Streams :
+
+<https://github.com/MIGHTE-lab/SISMID24>
+
+-   [The HitchHikers Guide to Reproducible Research](The%20HitchHikers%20Guide%20to%20Reproducible%20Research): 
+
+<https://github.com/benkeser>
+
+**Module 4**
+
+-   Network modeling in Epidemic:
+
+<https://epimodel.github.io/sismid/2_stat_models_theory/mod2-NHT.html>
+
+-   MCMC II:
+
+<https://www.maths.nottingham.ac.uk/plp/pmztk/files/MCMC2-Seattle/>
+
+-   [Evolutionary Dynamics and Molecular Epidemiology of Viruses](https://sph.emory.edu/SISMID/modules/evo-dynamics-molecular-epi/index.html):
+
+<https://juliapalacios.github.io/SISMID_EvolutionaryDynamics/>
+
+**Module 5:**
+
+-   Stochastic Epidemic Model:
+
+<https://github.com/fannybergstrom/SISMID_stochastic_epidemic_models>
+
+-   Simulation-based Inference for Epidemiological Dynamics:
+
+<https://rubbislam.quarto.pub/episim/>
+
+-   [Introduction to Machine Learning for ID Modeling](https://sph.emory.edu/SISMID/modules/intro-machine-learning/index.html):
