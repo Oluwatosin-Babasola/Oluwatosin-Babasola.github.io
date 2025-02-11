@@ -9,11 +9,11 @@ The Summer Institute in Statistics and Modeling in Infectious Diseases (SISMID) 
 
 **Module 1:**
 
--   [Introduction to R](Introduction%20to%20R):
+-   Introduction to R:
 
 The material to learn the basic of R can be found  [here](https://github.com/UGA-IDD/SISMID-2024). Relevant link also [here](https://alexd106.github.io/intro2R/lectures.html,) and [here](https://andreashandel.github.io/MADAcourse/content/content-overview.html)
 
--   [Spatial Statistics in Epidemiology and Public Health](Spatial%20Statistics%20in%20Epidemiology%20and%20Public%20Health):
+-   Spatial Statistics in Epidemiology and Public Health:
 
 <https://github.com/lance-waller-lab/SISMID_2024_spatial_statistics>
 
@@ -49,7 +49,7 @@ The material to learn the basic of R can be found  [here](https://github.com/UG
 
 <https://github.com/MIGHTE-lab/SISMID24>
 
--   [The HitchHikers Guide to Reproducible Research](The%20HitchHikers%20Guide%20to%20Reproducible%20Research): 
+-   The HitchHikers Guide to Reproducible Research
 
 <https://github.com/benkeser>
 
