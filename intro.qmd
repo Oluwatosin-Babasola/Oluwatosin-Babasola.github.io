@@ -1,5 +1,5 @@
 ---
-title: "Oluwatosin Babasola, PhD"
+title: "About me"
 image: /images/46967418.png
 about: 
   template: trestles
