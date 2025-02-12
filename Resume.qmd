@@ -198,7 +198,7 @@ editor: visual
 
 ## Skills
 
--   MATLAB, Python, R
+-   Technical:
 
     -   Programming Skills : Python, R, SQL and MATLAB
 
