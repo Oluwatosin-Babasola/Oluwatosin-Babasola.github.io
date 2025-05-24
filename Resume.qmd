@@ -3,6 +3,10 @@ title: "Resume"
 editor: visual
 ---
 
+## Professional Summary
+
+I am a mathematician who brings both theoretical depth and practical experience to quantitative finance. My career began in the financial industry, where I worked as an analyst in banking and consulting. That early exposure to real-world investment challenges led me to pursue advanced academic training, ultimately earning a PhD in Mathematical Sciences. I specialize in applying mathematics alongside programming tools such as Python to build models for asset pricing, portfolio optimization, and financial risk analysis. I have also developed scalable, data-driven solutions that integrate machine learning and statistical modeling. My experience cut across both academic research and industry application, which gives me a unique ability to translate complex theory into tools that inform strategy, uncover patterns, and support sound investment decisions. After several years in research, I am now open to returning to the industry and applying my knowledge in a practical, high-impact setting where I can help teams solve complex financial problems and drive strategic outcomes.
+
 ## Education
 
 -   2023: Ph.D. in Mathematical Sciences, University of Bath, UK
@@ -14,9 +18,9 @@ editor: visual
 
 ## Scholarship and Grants (total approx USD 300, 000)
 
--   National Science Foundation (NSF) Travel Grant
+-   February 2025: National Science Foundation (NSF) Travel Grant
 
--   SISMID Holloran Scholarship
+-   July 2024: SISMID Holloran Scholarship
 
 -   July 2023: Centre de recherches mathematiques (CRM) Grant
 
@@ -54,7 +58,7 @@ editor: visual
 
 2020: UK Graduate [Modelling](https://www.maths.ox.ac.uk/study-here/postgraduate-study/industrially-focused-mathematical-modelling-epsrc-cdt/infomm-events-4%7D%7BModelling) Camp, Oxford, UK - Runner up Prize\`
 
-2019: Maryam Mirzakhani Prize at the International Mathematical Olympiad.
+2019: Maryam Mirzakhani Prize at the International Mathematical Olympiad (IMO).
 
 ## Work Experience
 
@@ -94,7 +98,13 @@ editor: visual
 
 -   Senior Research Associate, [University of Georgia](https://www.ceid.uga.edu/2024/03/15/oluwatosin-babasola/), Athens, GA
 
-    -   Research Area: Mathematical modeling, molecular epidemiology, cost effectiveness assessment, environmental risk
+    -   Research Area: Machine Learning, Mathematical modeling, molecular epidemiology, cost effectiveness assessment, environmental risk.
+
+        -   Built predictive machine learning models which improves classification performance by 25% through feature engineering and model tuning.
+
+        -   Mentored research teams on improving machine learning model efficiency, achieving a 30% reduction in runtime by refining data pipelines and algorithm selection.
+
+        -   Collaborated with academic and industry stakeholders to integrate AI into research processes, leading to the creation of new decision-support tools.
 
         -   Developed mathematical model and implemented molecular epidemiology approach to effectively study the transmission pathway of Influenza A virus.
 
@@ -104,6 +114,12 @@ editor: visual
 
     -   Research Area: Machine learning, predictive modeling, statistical data analysis, numerical analysis
 
+        -   Developed and optimized asset pricing and portfolio risk models using Python and statistical techniques, which helped to improve predictive accuracy and support investment decisions
+
+        -   Designed compelling data visualizations and presented findings to both technical and non-technical audiences, enabling data-driven strategic decisions.
+
+        -   Conducted statistical inference and time-series analysis to model market trends, helping refine pricing models under different demographic and economic scenarios.
+
         -   Developed a machine learning algorithm that classify the UK household income and the spending behavior.
 
         -   Applied statistical modeling techniques to extract meaningful patterns to inform decision making
@@ -112,21 +128,29 @@ editor: visual
 
 -   Lead Financial Analyst, Infinite Data Consultants Ltd
 
-    -   Core competence: Team management, Data analysis, financial model
+    -   Core competence: Team management, Data analysis, financial modeling
 
-        -   Led cross functional teams to achieve project goals and enhance collaboration across departments
+        -   Built financial risk models and simulations to evaluate exposure to market and credit risks, enabling the executive team to proactively mitigate financial threats.
 
-        -   Analyzed complex datasets to derive actionable insights and inform business decision
+        -   Leveraged Python to process large financial datasets that help uncover investment opportunities and enhance reporting efficiency.
+
+        -   Led interdisciplinary teams across finance and tech departments to implement data-driven strategies, resulting in more cohesive project execution.
+
+        -   Analyzed complex data to derive actionable insights and inform business decision
 
         -   Identified trends through data analysis to support strategic planning and operational improvement
 
--   Analyst, First Bank, plc
+-   Analyst, Access Bank, plc
 
     -   Core competence: Statistical analysis, customer relationship, trading, communication
 
-        -   Generated detailed reports to support decision making processes
+        -    Applied a modified Black-Scholes model and put-call parity to assess the pricing consistency of options and identify arbitrage opportunities through mispricing.
 
-        -   Developed engaging data visualization to effectively communicate consumer products
+        -   Valued fixed income and structured products using bond math and scenario analysis which assists the bank portfolio manager in aligning risk-return profiles.
+
+        -   Conducted market and industry research to generate investment insights, that supported asset allocation recommendations for high-net-worth clients.
+
+        -   Generated detailed reports to support decision making processes and developed engaging data visualization to effectively communicate consumer products
 
 ## Research Area
 
@@ -140,9 +164,39 @@ editor: visual
 
 -   Climate Risk Modeling
 
+## Skills
+
+-   Technical:
+
+    -   Programming Skills : Python, R, SQL and MATLAB
+
+    -   Data Visualization: Python (seaborn, Matplotlib, pandas), R (ggplot2, plotly, shiny)
+
+    -   Time Series Forecasting: Python (statsmodels, arch, Prophet), R (quantmod, forecast, fpp3)
+
+    -   Machine Learning: Scikit-learn, PyTorch, TensorFlow, Keras
+
+    -   Statistical Analysis: Python (statsmodels, scipy), R (stats, car, MASS, glmnet, lme4).
+
+    -   Tools & Environments: Git, Bash, Linux Terminal, Jupyter, VS Code
+
+## Core Competence
+
+-   Deep understanding of financial markets and theoretical trading strategies.
+
+-   Skilled with data analysis with large noisy datasets.
+
+-   Effective in fast-paced, collaborative environments.
+
+-   Strong written and verbal communication skills.
+
+-   Advanced programming in Python, R, and MATLAB.
+
 ## Conference and Workshop
 
--   03 - 05 Jan 2024: [Dynamics Days](https://www.ddays.org/2025/) 2025, Denver, USA.
+-   06 - 08 March 2025: [LatMath Conference](https://www.ipam.ucla.edu/programs/special-events-and-conferences/latmath-2025/), University of California, Los Angeles, USA
+
+-   03 - 05 Jan 2025: [Dynamics Days](https://www.ddays.org/2025/) 2025, Denver, USA.
 
 -   21 - 22 Nov 2024: NSF Workshop on [Data-driven Modeling and Prediction of Rare and Extreme Events](https://datascience.uchicago.edu/events/nsf-workshop-on-data-driven-modeling-and-prediction-of-rare-and-extreme-events/), University of Chicago, USA.
 
@@ -195,26 +249,6 @@ editor: visual
 -   15 - 17 July 202: UK Graduate [Modelling](https://www.maths.ox.ac.uk/study-here/postgraduate-study/industrially-focused-mathematical-modelling-epsrc-cdt/infomm-events-4%7D%7BModelling) Camp, University of Oxford. UK.
 
 -   21 - 23 Jan 2020: [Geospatial](https://www.bath.ac.uk/events/geospatial-study-group-with-industry/%7D%7BGeospatial) Study Group with Industry with challenge problems from [Natural](https://www.gov.uk/government/organisations/natural-england%7D%7BNatural) England and [Highways](https://highwaysengland.co.uk/%7D%7BHighways) England.
-
-## Skills
-
--   Technical:
-
-    -   Programming Skills : Python, R, SQL and MATLAB
-
-    -   Data Visualization: Python (seaborn, Matplotlib, pandas), R (ggplot2, plotly, shiny)
-
-    -   Time Series Forecasting: Python (statsmodels, arch, Prophet), R (quantmod, forecast, fpp3)
-
-    -   Machine Learning: Scikit-learn, PyTorch, TensorFlow, Keras
-
-    -   Statistical Analysis: Python (statsmodels, scipy), R (stats, car, MASS, glmnet, lme4).
-
--   Operating system: Windows, Ubuntu, MacOS
-
--   Typography : LaTeX, Microsoft word
-
--   Additional: Microsoft Office Suit (Excel)
 
 ## Leadership and Mentorship
 
