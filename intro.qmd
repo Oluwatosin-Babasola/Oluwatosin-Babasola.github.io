@@ -19,7 +19,7 @@ about:
 
 ------------------------------------------------------------------------
 
-I am a senior research associate at the [University of Georgia](https://www.uga.edu), specializing in leveraging mathematical skills to address complex problems in biological and environmental settings. My research focus cut across numerical analysis, mathematical biology, molecular epidemiology, financial mathematics, dynamical systems, machine learning and climate risk modeling.
+I am a postdoctoral researcher at the [University of Georgia](https://www.uga.edu), specializing in leveraging mathematical skills to address complex problems in biological and environmental settings. My research focus cut across numerical analysis, mathematical biology, molecular epidemiology, financial mathematics, dynamical systems, machine learning and climate risk modeling.
 
 I completed my PhD as a researcher at the [EPSRC Centre for Doctoral Training in Statistical Applied Mathematics](https://www.samba.ac.uk) at the [University of Bath](https://www.bath.ac.uk). My doctoral work focused on analyzing time-delayed systems to investigate the effects of climate change on agriculture. Specifically, I developed both mathematical and statistical models to explore how time lags between flowering and harvesting stages affect cocoa crops, to predict their behavior as global temperatures rise.
 
