@@ -5,7 +5,7 @@ editor: visual
 
 ## Professional Summary
 
-I am a mathematician who brings both theoretical depth and practical experience to quantitative finance. My career began in the financial industry, where I worked as an analyst in banking and consulting. That early exposure to real-world investment challenges led me to pursue advanced academic training, ultimately earning a PhD in Mathematical Sciences. I specialize in applying mathematics alongside programming tools such as Python to build models for asset pricing, portfolio optimization, and financial risk analysis. I have also developed scalable, data-driven solutions that integrate machine learning and statistical modeling. My experience cut across both academic research and industry application, which gives me a unique ability to translate complex theory into tools that inform strategy, uncover patterns, and support sound investment decisions. After several years in research, I am now open to returning to the industry and applying my knowledge in a practical, high-impact setting where I can help teams solve complex financial problems and drive strategic outcomes.
+I am a mathematician who brings both theoretical depth and practical experience to quantitative finance. My career began in the financial industry, where I worked as an analyst in banking and consulting. That early exposure to real-world investment challenges led me to pursue advanced academic training, ultimately earning a PhD in Mathematical Sciences. I specialize in applying mathematics alongside programming tools such as Python to build models for asset pricing, portfolio optimization, and financial risk analysis. I have also developed scalable, data-driven solutions that integrate machine learning and statistical modeling. My experience cut across both academic research and industry application, which equipped me with the skills required to translate complex theory into practical solution that inform strategy, uncover patterns, and support sound investment decisions. I am always excited to apply my knowledge in a practical, high-impact setting where I can help teams solve complex problems and drive strategic outcomes.
 
 ## Education
 
@@ -144,7 +144,7 @@ I am a mathematician who brings both theoretical depth and practical experience 
 
     -   Core competence: Statistical analysis, customer relationship, trading, communication
 
-        -    Applied a modified Black-Scholes model and put-call parity to assess the pricing consistency of options and identify arbitrage opportunities through mispricing.
+        -   Applied a modified Black-Scholes model and put-call parity to assess the pricing consistency of options and identify arbitrage opportunities through mispricing.
 
         -   Valued fixed income and structured products using bond math and scenario analysis which assists the bank portfolio manager in aligning risk-return profiles.
 
