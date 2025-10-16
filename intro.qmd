@@ -11,7 +11,7 @@ about:
       href: https://github.com/Oluwatosin-Babasola
     - icon: google
       text: Google Scholar
-      href: https://scholar.google.com/citations?hl=en&user=HEXXuBQAAAAJ&view_op=list_works&authuser=1&sortby=pubdate
+      href: https://scholar.google.com/citations?user=SK8qe-EAAAAJ&hl=en
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/tosin-babasola/
